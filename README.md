@@ -1,7 +1,10 @@
 # AUV_MPC
 
 ## Overview
-This repository contains the code for the paper on Model Predictive Control (MPC) for Autonomous Underwater Vehicle (AUV) navigation. The code is designed to simulate and control the navigation of an AUV using MPC techniques.
+This repository contains the code for the paper on Model Predictive Control (MPC) for Autonomous Underwater Vehicle (AUV) navigation titled:
+"Localization-Aware Path-Planning for an Ocean Exploring Team of Autonomous Underwater Vehicles with Consensus Graph Model Predictive Control". 
+
+The code is designed to simulate and control the navigation of an AUV using MPC techniques.
 
 ## Installation
 To get started with this project, clone the repository:
