@@ -17,9 +17,11 @@ Ensure you have MATLAB installed on your system.
 
 ## Usage
 To run the simulations and experiments, open MATLAB and navigate to the project directory. Then, run the main script:
-1. Run the AUV_MPC_P2.m file, which is the main file. It calls the OceanEnvironment file and relevant functions to create the Ocean environment.
-3. The system parameters can be changed in this file. It creates MPC matrixes and runs the P2 optimization problem (based on the paper) to initialize the paths.
-4. Then it calls and runs P3, P4 and P5 optimization problems (described on the paper)1. Put all files in the same path or add paths.
+1. Run the AUV_MPC_P2.m file, which is the main file.
+2. It calls the OceanEnvironment file and relevant functions to create the Ocean environment.
+3. The system parameters can be changed in this file.
+4. It creates MPC matrixes and runs the P2 optimization problem (based on the paper) to initialize the paths.
+5. Then it calls and runs P3, P4 and P5 optimization problems (described in the paper).
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
